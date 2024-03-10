@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709988629 source:c:\college\c programs\calander_project\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
